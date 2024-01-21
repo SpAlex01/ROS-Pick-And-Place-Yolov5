@@ -29,7 +29,6 @@ Initializare motion planning:
 Detectie piesa:
 ![image](https://github.com/SpAlex01/ROS-Pick-And-Place-Yolov5/assets/109654082/92748772-0451-4f46-ba7e-59d30eb4f298)
 
-![image](https://github.com/SpAlex01/ROS-Pick-And-Place-Yolov5/assets/109654082/f09764a2-e10c-4aa9-8a9d-58dc781fdc57)
 
 
 
